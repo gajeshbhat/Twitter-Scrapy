@@ -13,6 +13,7 @@ flask = "*"
 dnspython = "*"
 urllib3 = "*"
 logging3 = "*"
+flask-restful = "*"
 
 [requires]
 python_version = "3.7"
